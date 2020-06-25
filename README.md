@@ -18,7 +18,7 @@ Flutter, Google Firebase
 3. Install `collab.apk` file in your Android device.
 
 ## Running the collab.apk file on Windows/Mac
-1. Open a `BlueStacks` on Windows.
+1. Open `BlueStacks` on Windows/Mac. (Refer to [here](http://thehavananote.com/2019/02/bluestacks-for-pc/) for download procedures)
 2. Open a browser in `BlueStacks` and download the `collab.apk` file from the github repository.
 3. Open the `collab.apk` file in the download location on `BlueStacks`
 4. Install `collab.apk` file on `BlueStacks`
