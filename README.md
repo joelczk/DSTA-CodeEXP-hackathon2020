@@ -23,6 +23,7 @@ Flutter, Google Firebase
 3. Open the `collab.apk` file in the download location on `BlueStacks`
 4. Install `collab.apk` file on `BlueStacks`
 
-Take Note that the apk file cannot be run on mobile device running on Apple OS as `flutter` is incompatible with Apple's OS.
+Take Not: The apk file cannot be run on mobile device running on Apple OS as `flutter` is incompatible with Apple's OS.
+
 Refer to [here](https://support.bluestacks.com/hc/en-us/articles/115003193406-How-can-I-install-an-app-on-BlueStacks-3-#:~:text=Tap%20on%20%E2%80%9CChoose%20Apk%E2%80%9D%20option,on%20open%20to%20install%20it.) for more information about how to open an apk file on `BlueStacks`
 
