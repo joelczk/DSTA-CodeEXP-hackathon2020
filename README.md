@@ -10,7 +10,8 @@ Collab is a Collaborative app for students. However, due to the time constraints
 During the hackathon, COVID19 erupted worldwide, causing massive disruption to everyone's daily lives, and this has made it difficult for students to find for colloboration on their projects, interests, business ideas etc. Therefore, we have decided to come up with this colloborative app to help students look for colloborations.
 
 ## Technical stack
-Flutter, Google Firebase
+1. Flutter
+2. Google Firebase
 
 ## Running collab.apk file on Android
 1. Download the `collab.apk` file on your desired Android device.
