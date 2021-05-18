@@ -1,7 +1,7 @@
 # DSTA-2020-Hackathon
 
 ## Introduction
-Collab is a Collaborative app for students. However, due to the time constraints during the hackathon, this is just a prototype with the App User Interface built. Other detailed features such as uploading of project and search engine are not fully built yet.
+Collab is a Collaborative app for students. However, due to the time constraints during the hackathon, this is just a prototype with the App User Interface built. Other detailed features such as uploading of project and search engine are not fully built yet. The product managed to reach the finalist(Top 8) in the DSTA-2020-Hackathon app development category
 
 ## Team Members:
 [Joel Chang](https://github.com/joelczk), [Lian Jiade](https://github.com/csjiade), [Ang JinWei](https://github.com/ijinwei), Anthony Ke
